@@ -1,0 +1,42 @@
+/*type*/
+
+
+/*ul{
+    color:brown
+}
+/*group*/
+/*ol,h2,h3{
+       color:blueviolet;
+}*/
+/*universal*/
+/**{
+    color:black
+}
+/*id*/
+
+/*#text{
+    color:aquamarine
+}
+/*class*/
+/*.v{
+    color:blue
+}*/
+/*child*/
+/*p>i{
+    color:pink
+
+}
+
+p>sup{
+    color:red
+}*/
+
+/*sibling*/
+/*h5~h6{
+    color:red;
+}*/
+/*abjacent sibling*/
+/*h3+h4{
+    color:brown;
+}*/
+/*decendent*/

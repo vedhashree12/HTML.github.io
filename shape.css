@@ -1,0 +1,40 @@
+/*body{
+    background-color:black;
+
+}*/
+/*.circle{
+    background-color: blue;
+    height:500px;
+    width:500px;
+    margin:auto;
+    background:linear-gradient(pink,green,red);
+    background:linear-gradient(to left,pink,green,red);*/
+   /*.circle{
+    background-color: pink;
+    height:500px;
+    width:500px;
+    margin:auto;
+  background: radial-gradient(red,green,blue);
+}*/
+ .conic{
+     height:200px;
+     width:200px;
+     background-image:conic-gradient(green,blue,pink,red,black,blue) ;
+     border-radius:50%;
+    
+ }
+ .conic1{
+  height:200px;
+  width:200px;
+  background-image:conic-gradient(green  10%,blue 10% 20%,pink 20% 30%,orange 30% 40%,yellow 40% 50%,pink 50% 60%,brown 60% 70%,violet 70% 80%,grey 80% 90%,beige 90% 100%) ;
+  border-radius:50%;
+}
+.conic2{
+  height:200px;
+  width:200px;
+  background-image:repeating-conic-gradient(yellow 5% 10%,red 10% 15%);
+  border-radius:50%;
+
+
+}
+   
